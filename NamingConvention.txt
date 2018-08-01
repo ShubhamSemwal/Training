@@ -1,0 +1,9 @@
+ClassNamingConvention
+
+methodNamingConvention
+
+fieldNamingConvention
+
+package.naming.convention
+
+CONSTANT_NAMEING_CONVENTION
